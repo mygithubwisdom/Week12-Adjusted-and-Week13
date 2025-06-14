@@ -1,0 +1,22 @@
+{
+  "name": "week-12-and-13",
+  "version": "1.0.0",
+  "description": "A simple express server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mygithubwisdom/wisdom-Assignment/issues"
+  },
+  "author": "Wisdom Chinonso Wisdom",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
